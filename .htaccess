@@ -1,0 +1,5 @@
+php_value auto_prepend_file "/home/u290660616/domains/ksc.khec.edu.np/public_html/include-test.php"
+# php_value auto_prepend_file "/home/u290660616/domains/ksc.khec.edu.np/public_html/includes/quick-nav.php"
+
+# Custom 404 page
+ErrorDocument 404 /includes/404.php
